@@ -26,7 +26,7 @@ Metadata Source
 
 2. Use built-in pandas or numpy functions to do things like remove 0’s and null values where they don’t belong in your dataset.
 
-3. Use at least 5 different built-in Python functions to find out something about your data. If you had a list for example, finding the length of that list with len(****<list>****) does tell us a little bit about the data.
+3. Use at least 5 different built-in Python functions to find out something about your data. If you had a list for example, finding the length of that list with len does tell us a little bit about the data.
 
 4. Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.
 
