@@ -16,4 +16,4 @@ https://doi.org/10.1016/j.ecolmodel.2018.02.010
 Metadata Source
 https://catalog.data.gov/harvest/object/7edf2d19-f32f-4061-ab39-f6538a9497a9
 
-.csv files, .txt
+.csv files, .txt, .pdf, .vrp, .exe, .wea, .wth, .dvf, .wea, .xlsx, .Rmd, .png, .PNG, .R, .py, .ipynb, .md, .r, .html
